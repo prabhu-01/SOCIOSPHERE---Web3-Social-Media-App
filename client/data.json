@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "wallet": "0x123456789...",
+        "name": "John Doe",
+        "profileImage": "https://example.com/johndoe.png"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "userId": 1,
+        "content": "This is a sample post by John Doe.",
+        "likes": 5
+      }
+    ]
+  }
+  
